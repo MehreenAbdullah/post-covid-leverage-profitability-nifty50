@@ -1,4 +1,4 @@
-ost-covid-leverage-profitability-nifty50
+Post-covid-leverage-profitability-nifty50
 
 This project examines how Nifty 50 companies adjusted their capital structures in the aftermath of the COVID-19 shock and examines whether deleveraging was associated with improved earnings performance.
 
