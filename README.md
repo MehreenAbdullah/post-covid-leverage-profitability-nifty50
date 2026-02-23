@@ -1,9 +1,9 @@
-post-covid-leverage-profitability-nifty50
+ost-covid-leverage-profitability-nifty50
 
-This project examines how Nifty 50 companies adjusted their capital structures after the COVID-19 shock and whether post-pandemic deleveraging translated into improved profitability.
+This project examines how Nifty 50 companies adjusted their capital structures in the aftermath of the COVID-19 shock and examines whether deleveraging was associated with improved earnings performance.
 
-Using firm-level data on Debt-to-Equity ratios and net profit performance, the analysis measures leverage shifts, computes earnings growth, and evaluates the relationship between capital structure adjustments and profitability outcomes. The study applies correlation analysis, quadrant segmentation, and OLS regression to assess both direction and statistical significance.
+Using firm-level data on Debt-to-Equity ratios and net profit (₹ Cr), the analysis quantifies structural shifts in leverage between pre- and post-pandemic periods. Year-over-year profit growth is computed to evaluate operational recovery, and the relationship between leverage adjustments and profitability outcomes is assessed using correlation analysis and Ordinary Least Squares (OLS) regression.
 
-Key finding: A majority of firms reduced leverage in the post-COVID period, and regression results indicate a statistically significant relationship between leverage changes and profit performance, suggesting that balance sheet strengthening played a role in recovery.
+The findings indicate that a majority of firms reduced leverage post-COVID, reflecting balance sheet strengthening during the recovery phase. Regression results suggest a statistically significant negative relationship between leverage change and profit performance, implying that firms that deleveraged more aggressively tended to exhibit stronger earnings improvements, although explanatory power remains moderate.
 
-Tools used: Python | Pandas | Matplotlib | Seaborn | Statsmodels
+Tools: Python | Pandas | Matplotlib | Seaborn | Statsmodels
