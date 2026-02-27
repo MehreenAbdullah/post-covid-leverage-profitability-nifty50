@@ -23,4 +23,6 @@ Key Findings
 Conclusion
 
 The analysis suggests that post-COVID deleveraging was not merely defensive but aligned with improved earnings outcomes. Firms that strengthened their balance sheets appear to have positioned themselves more effectively for recovery, although capital structure adjustments alone do not fully explain profit performance. Overall, the findings highlight the strategic role of leverage management during economic recovery phases.
+
+
 Tools: Python | Pandas | Matplotlib | Seaborn | Statsmodels
