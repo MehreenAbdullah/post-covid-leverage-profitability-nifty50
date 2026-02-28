@@ -5,13 +5,13 @@
   Tech Stack: Python
   IDE: Jupyter Notebook
 
- Project Overview
+Project Overview
  ---
 
-This project examines how Nifty 50 companies adjusted their capital structures after the COVID-19 pendamic & whether post--pandemic deleveraging translated into improved profitability. Using firm-level data on Debt-to-Equity ratios and net profit (₹ Cr), the analysis measures structural shifts in leverage across pre- and post-COVID periods and evaluates earnings recovery through year-over-year profit growth. The relationship between leverage adjustments and profitability outcomes is assessed using correlation analysis and OLS regression.
+This project examines how Nifty 50 companies changed their capital structures after the COVID-19 pandemic and whether reducing leverage actually improved profitability. Using firm-level data on Debt-to-Equity ratios and net profit (₹ Cr), it compares pre- and post-COVID periods to track shifts in leverage and year-over-year earnings recovery. The relationship between deleveraging and profitability is examined through correlation analysis and OLS regression to understand whether lower debt levels translated into stronger performance.
 
 
-Project Structure
+Structure
 --
 * Data cleaning and preparation of firm-level financial data
 * Computation of Debt-to-Equity changes and profit growth rates
